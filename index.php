@@ -40,7 +40,7 @@
         <div class="collapse navbar-collapse" id="mainMenu">
           <ul class="navbar-nav ml-auto text-uppercase f1">
             <li>
-              <a href="https://twitter.com/flappy_ape" class="" target="_blank"><i class="fa-brands fa-twitter fa-3x"></i></a>
+              <a href="" class="" target="_blank"><i class="fa-brands fa-twitter fa-3x"></i></a>
           </li>
           <li>
               <a href="https://discord.gg/mt8tGAwZa4" target="_blank" class=""><i class="fa-brands fa-discord fa-3x"></i></a>
@@ -129,7 +129,7 @@
         <div class="container">
           <div class="row">
             <div class="col text-center">
-                <a href="https://twitter.com/flappy_ape" target="_blank"><button type="button" id="twitter" class="btn btn-primary btn-lg text-center"><i class="fa-brands fa-twitter fa-1x"></i> Twitter</button></a>
+                <a href="twitter" target="_blank"><button type="button" id="twitter" class="btn btn-primary btn-lg text-center"><i class="fa-brands fa-twitter fa-1x"></i> Twitter</button></a>
                 <a href="https://discord.gg/mt8tGAwZa4" target="_blank"><button type="button" id="discord" class="btn btn-primary btn-lg text-center"><i class="fa-brands fa-discord fa-1x"></i> Discord</button></a>
             </div>
         </div>
